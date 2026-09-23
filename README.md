@@ -28,7 +28,7 @@ September 2025 – December 2025
 
 ### Personal Portfolio
 - Portfolio website showcasing my skills and projects
-- Website: file:///C:/Users/Dell/Downloads/reshma-wordpress-portfolio.html
+- Website:C:/Users/Dell/Downloads/reshma-wordpress-portfolio.html
 
 ## 🎓 Education
 
